@@ -1,0 +1,5 @@
+{
+  "consoleVersion": "1.0.0-alpha.1",
+  "name": "Slime Run",
+  "description": "スライムを操作してゴールを目指せ！穴に落ちないように右へ進もう。チェックポイントで再開可能。"
+}
